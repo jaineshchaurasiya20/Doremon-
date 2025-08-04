@@ -1,5 +1,5 @@
 # Doremon-
-this is a personal HTML and CSS project where I recreated Doraemon to explore the depths of my understanding in CSS styling and animation. By building each part modularly, I challenged myself to think creatively and test how deeply I could apply visual logic and interactivity using pure code.
+This is a personal HTML and CSS project where I recreated Doraemon to explore the depths of my understanding in CSS styling and animation. By building each part modularly, I challenged myself to think creatively and test how deeply I could apply visual logic and interactivity using pure code.
 
 # 🎨 Doraemon in Pure CSS
 A creative front-end experiment built using HTML and CSS to recreate the iconic character Doraemon with detailed styling and animation. This project pushes the boundaries of what can be accomplished using pure CSS — no SVGs, no canvas, just code and curiosity.
